@@ -1,0 +1,1 @@
+The Git staging area helps us choose which files we want to save in a commit. It also gives us a chance to check our changes before committing them.
